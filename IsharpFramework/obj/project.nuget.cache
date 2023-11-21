@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "h1TWhE+KqzOye+lW4MPHFijFaD+T0g94N3YTClHEAjFbBBLFMGsIuSBCqfoiQ6o1NJn0iTQpbqteD/LyzHTw/w==",
+  "dgSpecHash": "O2gWkp8cJkUXx7eYVIpxGlHYXUUrqBFC6xvzjSpuUe0xUJRZw52T0qExlbwxTq1AMdFMfAIRh9IZ+A+2wSInzQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\iqbal\\Documents\\GitHub\\ItextSharpUtil\\IsharpFramework\\IsharpFramework.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\iqbal\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\iqbal\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\iqbal\\.nuget\\packages\\itext\\8.0.2\\itext.8.0.2.nupkg.sha512",
+    "C:\\Users\\iqbal\\.nuget\\packages\\itext.bouncy-castle-adapter\\8.0.2\\itext.bouncy-castle-adapter.8.0.2.nupkg.sha512",
     "C:\\Users\\iqbal\\.nuget\\packages\\itext.commons\\8.0.2\\itext.commons.8.0.2.nupkg.sha512",
     "C:\\Users\\iqbal\\.nuget\\packages\\itext7\\8.0.2\\itext7.8.0.2.nupkg.sha512",
     "C:\\Users\\iqbal\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
@@ -30,6 +32,7 @@
     "C:\\Users\\iqbal\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\iqbal\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
     "C:\\Users\\iqbal\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
+    "C:\\Users\\iqbal\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
     "C:\\Users\\iqbal\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\iqbal\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\iqbal\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

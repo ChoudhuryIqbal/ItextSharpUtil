@@ -1,0 +1,14 @@
+C:\Users\iqbal\Documents\GitHub\ItextSharpUtil\PracticeSolution\bin\Release\net6.0\PracticeSolution.exe
+C:\Users\iqbal\Documents\GitHub\ItextSharpUtil\PracticeSolution\bin\Release\net6.0\PracticeSolution.deps.json
+C:\Users\iqbal\Documents\GitHub\ItextSharpUtil\PracticeSolution\bin\Release\net6.0\PracticeSolution.runtimeconfig.json
+C:\Users\iqbal\Documents\GitHub\ItextSharpUtil\PracticeSolution\bin\Release\net6.0\PracticeSolution.dll
+C:\Users\iqbal\Documents\GitHub\ItextSharpUtil\PracticeSolution\bin\Release\net6.0\PracticeSolution.pdb
+C:\Users\iqbal\Documents\GitHub\ItextSharpUtil\PracticeSolution\obj\Release\net6.0\PracticeSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iqbal\Documents\GitHub\ItextSharpUtil\PracticeSolution\obj\Release\net6.0\PracticeSolution.AssemblyInfoInputs.cache
+C:\Users\iqbal\Documents\GitHub\ItextSharpUtil\PracticeSolution\obj\Release\net6.0\PracticeSolution.AssemblyInfo.cs
+C:\Users\iqbal\Documents\GitHub\ItextSharpUtil\PracticeSolution\obj\Release\net6.0\PracticeSolution.csproj.CoreCompileInputs.cache
+C:\Users\iqbal\Documents\GitHub\ItextSharpUtil\PracticeSolution\obj\Release\net6.0\PracticeSolution.dll
+C:\Users\iqbal\Documents\GitHub\ItextSharpUtil\PracticeSolution\obj\Release\net6.0\refint\PracticeSolution.dll
+C:\Users\iqbal\Documents\GitHub\ItextSharpUtil\PracticeSolution\obj\Release\net6.0\PracticeSolution.pdb
+C:\Users\iqbal\Documents\GitHub\ItextSharpUtil\PracticeSolution\obj\Release\net6.0\PracticeSolution.genruntimeconfig.cache
+C:\Users\iqbal\Documents\GitHub\ItextSharpUtil\PracticeSolution\obj\Release\net6.0\ref\PracticeSolution.dll

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsharpFramework", "IsharpFramework.csproj", "{7ADFF7BB-4EF0-4589-84AB-AEB959BBA508}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeSolution", "..\PracticeSolution\PracticeSolution.csproj", "{13078793-11BE-4F46-BC43-F31F8D41E38C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7ADFF7BB-4EF0-4589-84AB-AEB959BBA508}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7ADFF7BB-4EF0-4589-84AB-AEB959BBA508}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7ADFF7BB-4EF0-4589-84AB-AEB959BBA508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13078793-11BE-4F46-BC43-F31F8D41E38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13078793-11BE-4F46-BC43-F31F8D41E38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13078793-11BE-4F46-BC43-F31F8D41E38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13078793-11BE-4F46-BC43-F31F8D41E38C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
